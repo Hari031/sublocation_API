@@ -1,0 +1,17 @@
+Flask
+opencv_python
+pandas
+matplotlib
+urllib3
+requests
+azure-storage-blob==1.5.0
+azure-storage-common
+azure-storage-file
+azure-storage-queue
+numpy
+Pillow
+tqdm
+requests
+urllib3
+python-time
+torch

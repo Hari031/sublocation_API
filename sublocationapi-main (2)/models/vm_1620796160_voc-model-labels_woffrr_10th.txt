@@ -1,0 +1,6 @@
+BACKGROUND
+frontDoor
+rearDoor
+hood
+frontBumper
+rearBumper
